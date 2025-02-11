@@ -44,7 +44,8 @@ A powerful cybersecurity tool built with Python and Tkinter, designed to perform
 Install missing dependencies with:  
 ```sh
 pip install pillow opencv-python requests
-```  
+```
+Setup python enviornment before running it
 
 ### Usage  
 
@@ -54,7 +55,15 @@ pip install pillow opencv-python requests
 
 ### Screenshots  
 
-(Add screenshots of your GUI here)  
+
+![image](https://github.com/user-attachments/assets/4e434ebd-c18f-43e7-8095-ac0caf69a51e)
+
+![image](https://github.com/user-attachments/assets/3d9ab336-0cfe-4044-8cc3-cb72c9717996)
+
+ ![image](https://github.com/user-attachments/assets/ef3c3c25-bae8-4f75-8e4a-ce15e0c49b50)
+ ![image](https://github.com/user-attachments/assets/62468e76-fe2c-4bfa-af1f-eddadd97fb57)
+ 
+
 
 ### Contributing  
 
